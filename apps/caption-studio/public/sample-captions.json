@@ -1,0 +1,26 @@
+{
+  "language": "en",
+  "words": [
+    { "word": "Stop", "start": 0.10, "end": 0.38, "speaker": "SPEAKER_00" },
+    { "word": "scrolling.", "start": 0.40, "end": 0.92, "speaker": "SPEAKER_00" },
+    { "word": "This", "start": 1.15, "end": 1.32, "speaker": "SPEAKER_00" },
+    { "word": "is", "start": 1.33, "end": 1.44, "speaker": "SPEAKER_00" },
+    { "word": "how", "start": 1.45, "end": 1.62, "speaker": "SPEAKER_00" },
+    { "word": "you", "start": 1.63, "end": 1.78, "speaker": "SPEAKER_00" },
+    { "word": "caption", "start": 1.80, "end": 2.18, "speaker": "SPEAKER_00" },
+    { "word": "a", "start": 2.19, "end": 2.26, "speaker": "SPEAKER_00" },
+    { "word": "clip", "start": 2.27, "end": 2.58, "speaker": "SPEAKER_00" },
+    { "word": "automatically.", "start": 2.60, "end": 3.35, "speaker": "SPEAKER_00" },
+    { "word": "WhisperX", "start": 3.80, "end": 4.28, "speaker": "SPEAKER_00" },
+    { "word": "finds", "start": 4.30, "end": 4.55, "speaker": "SPEAKER_00" },
+    { "word": "every", "start": 4.56, "end": 4.80, "speaker": "SPEAKER_00" },
+    { "word": "word's", "start": 4.81, "end": 5.10, "speaker": "SPEAKER_00" },
+    { "word": "exact", "start": 5.11, "end": 5.42, "speaker": "SPEAKER_00" },
+    { "word": "timing,", "start": 5.43, "end": 5.88, "speaker": "SPEAKER_00" },
+    { "word": "Remotion", "start": 6.20, "end": 6.70, "speaker": "SPEAKER_00" },
+    { "word": "animates", "start": 6.71, "end": 7.10, "speaker": "SPEAKER_00" },
+    { "word": "it", "start": 7.11, "end": 7.24, "speaker": "SPEAKER_00" },
+    { "word": "on", "start": 7.25, "end": 7.40, "speaker": "SPEAKER_00" },
+    { "word": "screen.", "start": 7.41, "end": 7.85, "speaker": "SPEAKER_00" }
+  ]
+}
